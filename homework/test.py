@@ -1,6 +1,6 @@
-i = 2
-x = 1
-for i in range(5):
-    print(i, end='')
-    x += 2
-print(x, end='')
+def function(name):
+    return f'First test function in GitHub by {name}!'
+
+hello = function('Ryan')
+
+print(hello)
