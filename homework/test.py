@@ -1,6 +1,6 @@
 def function(name):
     return f'First test function in GitHub by {name}!'
 
-hello = function('Ryan')
+hello = function('UnlimitedPi')
 
 print(hello)
